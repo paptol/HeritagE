@@ -1,0 +1,7 @@
+<<<<<<< .mine
+m_EditorVersion: 2017.2.0f3
+||||||| .r617
+m_EditorVersion: 2017.1.1f1
+=======
+m_EditorVersion: 5.6.1f1
+>>>>>>> .r652

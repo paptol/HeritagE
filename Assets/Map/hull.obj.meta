@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: eb974b648b998a741875ad9ca7070702
+timeCreated: 1511441475
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bollard
+    100002: Bridge
+    100004: Building
+    100006: BuildingEntrance
+    100008: BusStop
+    100010: //RootNode
+    100012: PoleFence
+    100014: PostBox
+    100016: Rail
+    100018: Road
+    100020: RoadArea
+    100022: RoadConnector
+    100024: RoadCrossingAtConnector
+    100026: RoadJunction
+    100028: SurfaceArea
+    100030: SurfaceParking
+    100032: Tree
+    100034: Wall
+    100036: Water
+    100038: Waterway
+    400000: Bollard
+    400002: Bridge
+    400004: Building
+    400006: BuildingEntrance
+    400008: BusStop
+    400010: //RootNode
+    400012: PoleFence
+    400014: PostBox
+    400016: Rail
+    400018: Road
+    400020: RoadArea
+    400022: RoadConnector
+    400024: RoadCrossingAtConnector
+    400026: RoadJunction
+    400028: SurfaceArea
+    400030: SurfaceParking
+    400032: Tree
+    400034: Wall
+    400036: Water
+    400038: Waterway
+    2300000: Bollard
+    2300002: Bridge
+    2300004: Building
+    2300006: BuildingEntrance
+    2300008: BusStop
+    2300010: PoleFence
+    2300012: PostBox
+    2300014: Rail
+    2300016: Road
+    2300018: RoadArea
+    2300020: RoadConnector
+    2300022: RoadCrossingAtConnector
+    2300024: RoadJunction
+    2300026: SurfaceArea
+    2300028: SurfaceParking
+    2300030: Tree
+    2300032: Wall
+    2300034: Water
+    2300036: Waterway
+    3300000: Bollard
+    3300002: Bridge
+    3300004: Building
+    3300006: BuildingEntrance
+    3300008: BusStop
+    3300010: PoleFence
+    3300012: PostBox
+    3300014: Rail
+    3300016: Road
+    3300018: RoadArea
+    3300020: RoadConnector
+    3300022: RoadCrossingAtConnector
+    3300024: RoadJunction
+    3300026: SurfaceArea
+    3300028: SurfaceParking
+    3300030: Tree
+    3300032: Wall
+    3300034: Water
+    3300036: Waterway
+    4300000: Bollard
+    4300002: Bridge
+    4300004: Building
+    4300006: BuildingEntrance
+    4300008: BusStop
+    4300010: PoleFence
+    4300012: PostBox
+    4300014: Rail
+    4300016: Road
+    4300018: RoadArea
+    4300020: RoadConnector
+    4300022: RoadCrossingAtConnector
+    4300024: RoadJunction
+    4300026: SurfaceArea
+    4300028: SurfaceParking
+    4300030: Tree
+    4300032: Wall
+    4300034: Water
+    4300036: Waterway
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
